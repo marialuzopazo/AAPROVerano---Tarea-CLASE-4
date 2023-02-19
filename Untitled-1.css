@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: blanchedalmond;
+    width: 100%;
+    clear: both;
+    content:"";
+    display: table;
+
+}
+img {
+    width: 200px;
+    margin: 0 auto;
+    float: left;
+    padding: 8px;
+}
+nav {
+    float: right;
+}
+nav ul li {
+    list-style: none;
+    margin-left: 25px;
+    padding: 12px 0;
+    float: left;
+
+}
+h1 { color: blue;}
+body {
+    background: #292929;
+    font-family:"calibri" ;
+}
+menu {
+    width: 900;
+    margin: 0 auto; 
+}
